@@ -10,12 +10,10 @@ tqdm library (for progress bar)
 Installation
 Ensure you have Python 3.x installed on your system.
 Install the tqdm library using pip:
-Copy code
 pip install tqdm
 Usage
 Update the kaynak_dizin (source directory) and hedef_dizin (destination directory) variables with the appropriate paths.
 Run the script:
-Copy code
 python file_control.py
 The script will continuously monitor the source directory for new files and transfer them to the destination directory.
 Configuration
