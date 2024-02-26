@@ -1,0 +1,1 @@
+Python ile yazılmış ve tqdm kullanılarak yapılan bu uygulamada kaynak dizinde var olan dosyaları kontrol eder ve eksik olan dosyaları hedef dizine gönderir. Ardından kopyalanan dosyaları siler.
